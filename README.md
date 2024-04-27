@@ -1,2 +1,2 @@
 # Movie-Review-Sentiment-Analysis
- A project to analyize IMDB movie recviews.
+ A project to analyize IMDB movie reviews.
