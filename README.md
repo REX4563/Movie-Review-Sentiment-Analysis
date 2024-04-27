@@ -1,5 +1,5 @@
 # Movie-Review-Sentiment-Analysis
- A project to analyize IMDB movie reviews.
+ A project to analyze IMDB movie reviews.
 
 Libraries requiered
 
