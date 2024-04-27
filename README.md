@@ -3,13 +3,13 @@
 
 Libraries requiered
 
-os
-json
-tqdm
-nltk
-numpy
-string
-pandas
-openpyxl
-requests
-BeautifulSoup
+os,
+json,
+tqdm,
+nltk,
+numpy,
+string,
+pandas,
+openpyxl,
+requests,
+BeautifulSoup.
